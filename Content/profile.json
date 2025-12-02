@@ -3,7 +3,7 @@
   "Name": "Anthony Mao",
   "Currently": "Computer Science Student",
   "Headshot": "https://media.licdn.com/dms/image/v2/D5603AQHhtToaZsKKBQ/profile-displayphoto-scale_400_400/B56ZoZa5KSG4Ag-/0/1761363075345?e=1766016000&v=beta&t=UdUbM_1ugHfw3uNjZ0pYXXsMg5KU--S9IhBLDaWfaPE",
-  "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in computer science.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers."<br><br>
+  "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in computer science.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>"
 },
 "Contact": {
   "Email": "maoa@spu.edu",
@@ -22,7 +22,7 @@ Scanned and digitized class documents
 •
 Managed student attendance and performance via registration system
 •
-Supported Canvas and school account setup under IT supervision"<br><br>,
+Supported Canvas and school account setup under IT supervision<br><br>",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2026",
