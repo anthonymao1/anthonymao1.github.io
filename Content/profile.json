@@ -1,57 +1,39 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Anthony Mao",
   "Currently": "Computer Science Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "Headshot": "https://media.licdn.com/dms/image/v2/D5603AQHhtToaZsKKBQ/profile-displayphoto-scale_400_400/B56ZoZa5KSG4Ag-/0/1761363075345?e=1766016000&v=beta&t=UdUbM_1ugHfw3uNjZ0pYXXsMg5KU--S9IhBLDaWfaPE",
+  "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in computer science.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "Email": "maoa@spu.edu",
+  "Phone": "(206)-771-2775",
+  "Portfolio": "https://anthonymao1.github.io/",
+  "LinkedIn": "https://www.linkedin.com/in/anthony-mao-3629b9223/",
+  "GitHub": "https://github.com/anthonymao1"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "Over the summer of 2025, I did an intenrship at Prestige Stem Academy. Prestige Stem Academy is a private educational institution that offers small group and 1-on-1 instruction in Honors, AP, and IB courses. It provides online and in-person classes, summer camps, and college counseling. Additionally, it specializes in academic enrichment for middle and high school students. Students from Prestige often enroll at top-ranking universities.
+My internship Role & Responsibilities (IT Support):
+•
+Set up classroom tech (TV, computers, printers, quiz buzzers)
+•
+Scanned and digitized class documents
+•
+Managed student attendance and performance via registration system
+•
+Supported Canvas and school account setup under IT supervision<br><br>",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Graduation": "June 2026",
+  "Skills": ["C++", "SQL", "Python"],
+  "Resume": "file:///C:/Resume%20and%20Job%20prep/Resume_Anthony%20Mao.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "TrayMate Senior Software Engineering Project",
+    "Desc": "Me and a team of classmates create an app called Traymate, which is a smart, AI powered meal management system that automates meal suggestions for care facilities and provides a simple meal-ordering interface for their residents, particularly those with special need diets.<br><br>",
+    "GitHubRepo": "https://github.com/aloepker/TrayMate",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
-  },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
   }
 }
