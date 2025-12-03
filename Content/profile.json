@@ -4,7 +4,7 @@
     "Currently": "Computer Science Student",
     "Headshot": "student-portrait.png",
     "Thumbnail": "student-logo.webp",
-    "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in projects that strengthen my technical skills and teamwork abilities. I am dedicated to continuous learning and exploring new technologies to expand my expertise."
+    "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I am dedicated to continuous learning and exploring new technologies to expand my expertise."
   },
   "Contact": {
     "EMail": "maoa@spu.edu",
@@ -23,7 +23,6 @@
     "Role": "IT Support Intern",
     "EmploymentText": "Provided technical support for classroom technology, digitized documents, and assisted with IT systems setup.",
     "Skills": ["C++", "SQL", "Python"],
-    "SkillsText": "Proficient in programming languages such as C++, SQL, and Python. Experienced in backend development, database integration, and technical support.",
     "Resume": "https://github.com/anthonymao1/Resume_AnthonyMao.pdf"
   },
   "Project1": {
@@ -32,26 +31,5 @@
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
-  },
-  "Project2": {
-    "Title": "Personal Portfolio Website",
-    "Desc": "An individual project where I designed and deployed my personal portfolio using HTML, CSS, and JavaScript. Hosted on GitHub Pages to showcase my academic and professional work.",
-    "GitHubRepo": "https://github.com/anthonymao1/anthonymao1.github.io",
-    "MainImage": "PortfolioMain.png",
-    "DetailImages": ["PortfolioDetail1.png", "PortfolioDetail2.png"]
-  },
-  "Project3": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
   }
 }
