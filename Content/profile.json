@@ -2,7 +2,7 @@
   "About": {
     "Name": "Anthony Mao",
     "Currently": "Computer Science Student",
-    "Headshot": "student-portrait.png",
+    "Headshot": "https://media.licdn.com/dms/image/v2/D5603AQHhtToaZsKKBQ/profile-displayphoto-scale_400_400/B56ZoZa5KSG4Ag-/0/1761363075345?e=1766620800&v=beta&t=vJ6-rE9B0t-iCIqevUE-MeDIIRA9I45Q5UPcpA6axHg",
     "Thumbnail": "student-logo.webp",
     "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I am dedicated to continuous learning and exploring new technologies to expand my expertise."
   },
@@ -23,13 +23,13 @@
     "Role": "IT Support Intern",
     "EmploymentText": "Provided technical support for classroom technology, digitized documents, and assisted with IT systems setup.",
     "Skills": ["C++", "SQL", "Python"],
-    "Resume": "https://github.com/anthonymao1/Resume_AnthonyMao.pdf"
+    "Resume": "Resume_Anthony Mao.pdf"
   },
   "Project1": {
     "Title": "TrayMate Senior Software Engineering Project",
     "Desc": "TrayMate is a smart, AI-powered meal management system designed for care facilities. It automates meal suggestions and provides a simple ordering interface for residents, particularly those with special dietary needs.<br><br><strong>Team Project</strong>: Collaborated with classmates.<br><strong>My Role</strong>: Backend developer, responsible for database integration and API design.",
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
-    "MainImage": "P1Main.png",
+    "MainImage": "TrayMate Board of Advisor Meeting Presentation.pptx",
     "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
   }
 }
