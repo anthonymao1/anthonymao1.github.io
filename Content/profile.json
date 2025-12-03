@@ -1,12 +1,13 @@
 {
   "About": {
     "Name": "Anthony Mao",
-    "Currently": "Computer Science Student, Seattle Pacific University",
-    "Headshot": "https://media.licdn.com/dms/image/v2/D5603AQHhtToaZsKKBQ/profile-displayphoto-scale_400_400/B56ZoZa5KSG4Ag-/0/1761363075345?e=1766016000&v=beta&t=UdUbM_1ugHfw3uNjZ0pYXXsMg5KU--S9IhBLDaWfaPE",
-    "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>"
+    "Currently": "Computer Science Student",
+    "Headshot": "student-portrait.png",
+    "Thumbnail": "student-logo.webp",
+    "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in projects that strengthen my technical skills and teamwork abilities. I am dedicated to continuous learning and exploring new technologies to expand my expertise."
   },
   "Contact": {
-    "Email": "maoa@spu.edu",
+    "EMail": "maoa@spu.edu",
     "Phone": "(206)-771-2775",
     "Portfolio": "https://anthonymao1.github.io/",
     "LinkedIn": "https://www.linkedin.com/in/anthony-mao-3629b9223/",
@@ -17,7 +18,12 @@
     "School": "Seattle Pacific University",
     "Major": "Computer Science",
     "Graduation": "June 2026",
+    "EducationText": "Currently pursuing my undergraduate degree in Computer Science at Seattle Pacific University, with coursework focused on software engineering, algorithms, and database systems.",
+    "Employment": "Prestige Stem Academy",
+    "Role": "IT Support Intern",
+    "EmploymentText": "Provided technical support for classroom technology, digitized documents, and assisted with IT systems setup.",
     "Skills": ["C++", "SQL", "Python"],
+    "SkillsText": "Proficient in programming languages such as C++, SQL, and Python. Experienced in backend development, database integration, and technical support.",
     "Resume": "https://github.com/anthonymao1/Resume_AnthonyMao.pdf"
   },
   "Project1": {
@@ -25,13 +31,27 @@
     "Desc": "TrayMate is a smart, AI-powered meal management system designed for care facilities. It automates meal suggestions and provides a simple ordering interface for residents, particularly those with special dietary needs.<br><br><strong>Team Project</strong>: Collaborated with classmates.<br><strong>My Role</strong>: Backend developer, responsible for database integration and API design.",
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
   },
   "Project2": {
     "Title": "Personal Portfolio Website",
     "Desc": "An individual project where I designed and deployed my personal portfolio using HTML, CSS, and JavaScript. Hosted on GitHub Pages to showcase my academic and professional work.",
     "GitHubRepo": "https://github.com/anthonymao1/anthonymao1.github.io",
     "MainImage": "PortfolioMain.png",
-    "DetailImages": ["PortfolioDetail1.png","PortfolioDetail2.png"]
+    "DetailImages": ["PortfolioDetail1.png", "PortfolioDetail2.png"]
+  },
+  "Project3": {
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
+  },
+  "Project4": {
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
   }
 }
