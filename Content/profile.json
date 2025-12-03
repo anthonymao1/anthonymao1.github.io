@@ -1,35 +1,122 @@
-{
-  "About": {
-    "Name": "Anthony Mao",
-    "Currently": "Computer Science Student",
-    "Headshot": "Anthony's Linkedln Picture.jpg",
-    "Thumbnail": "student-logo.webp",
-    "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I am dedicated to continuous learning and exploring new technologies to expand my expertise."
-  },
-  "Contact": {
-    "EMail": "maoa@spu.edu",
-    "Phone": "(206)-771-2775",
-    "Portfolio": "https://anthonymao1.github.io/",
-    "LinkedIn": "https://www.linkedin.com/in/anthony-mao-3629b9223/",
-    "GitHub": "https://github.com/anthonymao1"
-  },
-  "Experience": {
-    "ExperienceText": "Over the summer of 2025, I completed an internship at Prestige Stem Academy, a private educational institution specializing in Honors, AP, and IB instruction, academic enrichment, and college counseling.<br><br><strong>Role: IT Support Intern</strong><br><ul><li>Set up classroom technology (TVs, computers, printers, quiz buzzers)</li><li>Scanned and digitized class documents</li><li>Managed student attendance and performance via registration system</li><li>Supported Canvas and school account setup under IT supervision</li></ul>",
-    "School": "Seattle Pacific University",
-    "Major": "Computer Science",
-    "Graduation": "June 2026",
-    "EducationText": "Currently pursuing my undergraduate degree in Computer Science at Seattle Pacific University, with coursework focused on software engineering, algorithms, and database systems.",
-    "Employment": "Prestige Stem Academy",
-    "Role": "IT Support Intern",
-    "EmploymentText": "Provided technical support for classroom technology, digitized documents, and assisted with IT systems setup.",
-    "Skills": ["C++", "SQL", "Python"],
-    "Resume": "Resume_Anthony Mao.pdf"
-  },
-  "Project1": {
-    "Title": "TrayMate Senior Software Engineering Project",
-    "Desc": "TrayMate is a smart, AI-powered meal management system designed for care facilities. It automates meal suggestions and provides a simple ordering interface for residents, particularly those with special dietary needs.<br><br><strong>Team Project</strong>: Collaborated with classmates.<br><strong>My Role</strong>: Backend developer, responsible for database integration and API design.",
-    "GitHubRepo": "https://github.com/aloepker/TrayMate",
-    "MainImage": "TrayMate Board of Advisor Meeting Presentation.pptx",
-    "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
-  }
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anthony Mao - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #eee;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #004080;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #004080;
+    }
+    .project {
+      border: 1px solid #ccc;
+      background: white;
+      padding: 15px;
+      margin-bottom: 15px;
+    }
+    footer {
+      background: #004080;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Anthony Mao</h1>
+    <p>Computer Science Undergraduate, Seattle Pacific University</p>
+    <p>Expected Graduation: June 2026</p>
+  </header>
+
+  <nav>
+    <a href="#projects">Projects</a>
+    <a href="#internship">Internship</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>TrayMate (Senior Project)</h3>
+      <p><strong>Type:</strong> Team Project</p>
+      <p><strong>Role:</strong> Backend developer, database integration, API design</p>
+      <p>Built a system to streamline meal delivery in care facilities, focusing on practical real-world solutions.</p>
+      <img src="traymate-screenshot.jpg" alt="TrayMate Screenshot">
+    </div>
+    <div class="project">
+      <h3>Database Integration Project</h3>
+      <p><strong>Type:</strong> Individual Project</p>
+      <p>Designed and implemented a relational database with SQL, including schema design and query optimization.</p>
+      <img src="database-schema.png" alt="Database Schema">
+    </div>
+    <div class="project">
+      <h3>Algorithms Coursework Project</h3>
+      <p><strong>Type:</strong> Individual Project</p>
+      <p>Implemented and analyzed sorting and graph algorithms in C++ for performance comparisons.</p>
+    </div>
+  </section>
+
+  <section id="internship">
+    <h2>Internship</h2>
+    <p><strong>IT Support Intern, Prestige Stem Academy (Summer 2025)</strong></p>
+    <ul>
+      <li>Managed classroom technology and digitized documents</li>
+      <li>Provided technical troubleshooting and systems support</li>
+    </ul>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <p>Headshot, project screenshots, and diagrams. Attribution provided where necessary.</p>
+    <img src="headshot.jpg" alt="Anthony Mao Headshot">
+    <img src="project-diagram.png" alt="Project Diagram">
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: anthony.mao@example.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/anthony-mao" target="_blank">linkedin.com/in/anthony-mao</a></p>
+    <p>GitHub: <a href="https://github.com/anthony-mao" target="_blank">github.com/anthony-mao</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Anthony Mao. All rights reserved.</p>
+  </footer>
+</body>
+</html>
