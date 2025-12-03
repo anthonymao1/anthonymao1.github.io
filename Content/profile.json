@@ -1,30 +1,37 @@
 {
-"About": {
-  "Name": "Anthony Mao",
-  "Currently": "Computer Science Student",
-  "Headshot": "https://media.licdn.com/dms/image/v2/D5603AQHhtToaZsKKBQ/profile-displayphoto-scale_400_400/B56ZoZa5KSG4Ag-/0/1761363075345?e=1766016000&v=beta&t=UdUbM_1ugHfw3uNjZ0pYXXsMg5KU--S9IhBLDaWfaPE",
-  "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in computer science.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>"
-},
-"Contact": {
-  "Email": "maoa@spu.edu",
-  "Phone": "(206)-771-2775",
-  "Portfolio": "https://anthonymao1.github.io/",
-  "LinkedIn": "https://www.linkedin.com/in/anthony-mao-3629b9223/",
-  "GitHub": "https://github.com/anthonymao1"
-},
-"Experience": {
-  "ExperienceText": "Over the summer of 2025, I did an intenrship at Prestige Stem Academy. Prestige Stem Academy is a private educational institution that offers small group and 1-on-1 instruction in Honors, AP, and IB courses. It provides online and in-person classes, summer camps, and college counseling. Additionally, it specializes in academic enrichment for middle and high school students. Students from Prestige often enroll at top-ranking universities. My internship Role & Responsibilities (IT Support): Set up classroom tech (TV, computers, printers, quiz buzzers), scanned and digitized class documents, managed student attendance and performance via registration system, and supported Canvas and school account setup under IT supervision.<br><br>",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2026",
-  "Skills": ["C++", "SQL", "Python"],
-  "Resume": "file:///C:/Resume%20and%20Job%20prep/Resume_Anthony%20Mao.pdf"  
-},
-"Project1": {
+  "About": {
+    "Name": "Anthony Mao",
+    "Currently": "Computer Science Student, Seattle Pacific University",
+    "Headshot": "https://media.licdn.com/dms/image/v2/D5603AQHhtToaZsKKBQ/profile-displayphoto-scale_400_400/B56ZoZa5KSG4Ag-/0/1761363075345?e=1766016000&v=beta&t=UdUbM_1ugHfw3uNjZ0pYXXsMg5KU--S9IhBLDaWfaPE",
+    "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>"
+  },
+  "Contact": {
+    "Email": "maoa@spu.edu",
+    "Phone": "(206)-771-2775",
+    "Portfolio": "https://anthonymao1.github.io/",
+    "LinkedIn": "https://www.linkedin.com/in/anthony-mao-3629b9223/",
+    "GitHub": "https://github.com/anthonymao1"
+  },
+  "Experience": {
+    "ExperienceText": "Over the summer of 2025, I completed an internship at Prestige Stem Academy, a private educational institution specializing in Honors, AP, and IB instruction, academic enrichment, and college counseling.<br><br><strong>Role: IT Support Intern</strong><br><ul><li>Set up classroom technology (TVs, computers, printers, quiz buzzers)</li><li>Scanned and digitized class documents</li><li>Managed student attendance and performance via registration system</li><li>Supported Canvas and school account setup under IT supervision</li></ul>",
+    "School": "Seattle Pacific University",
+    "Major": "Computer Science",
+    "Graduation": "June 2026",
+    "Skills": ["C++", "SQL", "Python"],
+    "Resume": "https://github.com/anthonymao1/Resume_AnthonyMao.pdf"
+  },
+  "Project1": {
     "Title": "TrayMate Senior Software Engineering Project",
-    "Desc": "Me and a team of classmates create an app called Traymate, which is a smart, AI powered meal management system that automates meal suggestions for care facilities and provides a simple meal-ordering interface for their residents, particularly those with special need diets.<br><br>",
+    "Desc": "TrayMate is a smart, AI-powered meal management system designed for care facilities. It automates meal suggestions and provides a simple ordering interface for residents, particularly those with special dietary needs.<br><br><strong>Team Project</strong>: Collaborated with classmates.<br><strong>My Role</strong>: Backend developer, responsible for database integration and API design.",
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+  },
+  "Project2": {
+    "Title": "Personal Portfolio Website",
+    "Desc": "An individual project where I designed and deployed my personal portfolio using HTML, CSS, and JavaScript. Hosted on GitHub Pages to showcase my academic and professional work.",
+    "GitHubRepo": "https://github.com/anthonymao1/anthonymao1.github.io",
+    "MainImage": "PortfolioMain.png",
+    "DetailImages": ["PortfolioDetail1.png","PortfolioDetail2.png"]
   }
 }
