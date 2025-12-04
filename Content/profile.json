@@ -2,6 +2,7 @@
   "About": {
     "Name": "Anthony Mao",
     "Currently": "Computer Science Student",
+    "Headshot": "https://res.cloudinary.com/dq8fxhton/image/upload/v1764881493/Anthony_s_Linkedln_Picture_okiipw.jpg",
     "Thumbnail": "student-logo.webp",
     "AboutText": "Hi, I am Anthony Mao. I am a computer science student pursuing my undergraduate degree at Seattle Pacific University, expected graduation June 2026.<br><br>I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I am dedicated to continuous learning and exploring new technologies to expand my expertise."
   },
@@ -28,7 +29,7 @@
     "Title": "TrayMate Senior Software Engineering Project",
     "Desc": "TrayMate is a smart, AI-powered meal management system designed for care facilities. It automates meal suggestions and provides a simple ordering interface for residents, particularly those with special dietary needs.<br><br><strong>Team Project</strong>: Collaborated with classmates.<br><strong>My Role</strong>: Timekeeper, responsible for ensuring everything is submitted on time.",
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
-    "MainImage": "TrayMate Board of Advisor Meeting Presentation.pptx",
+    "MainImage": "https://res.cloudinary.com/dlxpg7zi1/image/upload/v1764748898/Screenshot_2025-12-02_123926_gxnqtk.png",
     "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
   }
 }
