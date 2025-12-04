@@ -21,7 +21,7 @@ function updateHTML(configData) {
   
   projectTitle = configData.Project1.Title;
   if (projectTitle) {
-    document.querySelector("#pfProject1Img").src = "Content/".concat(configData.Project1.MainImage);
+   /// document.querySelector("#pfProject1Img").src = "Content/".concat(configData.Project1.MainImage);
     document.querySelector("#pfProject1Title").innerHTML = projectTitle;
     document.querySelector("#pfProject1Desc").innerHTML = configData.Project1.Desc;
     document.querySelector("#pfProject1Repo").href = configData.Project1.GitHubRepo;
