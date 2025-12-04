@@ -10,11 +10,11 @@ import { ConfigSingleton } from "./GetProfile.js";
   })();
   
 function updateHTML(configData) {
-  document.querySelector("#pfThumbnail").src = "Content/".concat(configData.About.Thumbnail);
+///  document.querySelector("#pfThumbnail").src = "Content/".concat(configData.About.Thumbnail);
   document.querySelector("#pfLinkedIn").href = configData.Contact.LinkedIn;
   document.querySelector("#pfGitHub").href = configData.Contact.GitHub;
 
-  document.querySelector("#pfHeadshot").src = "Content/".concat(configData.About.Headshot);
+///  document.querySelector("#pfHeadshot").src = "Content/".concat(configData.About.Headshot);
   document.querySelector("#pfAboutName").innerHTML = configData.About.Name;
   document.querySelector("#pfAboutTitle").innerHTML = configData.About.Currently;
   document.querySelector("#pfAboutDesc").innerHTML = configData.About.AboutText;
