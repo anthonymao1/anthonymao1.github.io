@@ -31,7 +31,7 @@
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
     "MainImage": "https://res.cloudinary.com/dlxpg7zi1/image/upload/v1764748898/Screenshot_2025-12-02_123926_gxnqtk.png",
     "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
-  }.
+  },
   "Project2": {
     "Title": "Github Portfolio Project",
     "Desc": "I learned to create a simple portfolio using Github.<br><br><strong>Individual Project</strong>: Spent time studying basic html and css.<br>",
