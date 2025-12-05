@@ -37,7 +37,7 @@ function updateHTML(configData) {
   
   projectTitle = configData.Project2.Title;
   if (projectTitle) {
-    document.querySelector("#pfProject2Img").src = "Content/".concat(configData.Project2.MainImage);
+   /// document.querySelector("#pfProject2Img").src = "Content/".concat(configData.Project2.MainImage);
     document.querySelector("#pfProject2Title").innerHTML = projectTitle;
     document.querySelector("#pfProject2Desc").innerHTML = configData.Project2.Desc;
     document.querySelector("#pfProject2Repo").href = configData.Project2.GitHubRepo;
