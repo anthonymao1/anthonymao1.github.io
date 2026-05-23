@@ -26,8 +26,8 @@
     "Resume": "Resume_Anthony Mao.pdf"
   },
   "Project1": {
-    "Title": "TrayMate Senior Software Engineering Project",
-    "Desc": "TrayMate is a smart, AI-powered meal management system designed for care facilities. It automates meal suggestions and provides a simple ordering interface for residents, particularly those with special dietary needs.<br><br><strong>Team Project</strong>: Collaborated with classmates.<br><strong>My Role</strong>: Timekeeper, responsible for ensuring everything is submitted on time.",
+    "Title": "TrayMate Senior Software Engineering Project CAPSTONE",
+    "Desc": "TrayMate is a meal management and communication platform designed specifically for assisted living and care facilities. The system improves the safety, efficiency, and personalization of meal ordering for residents while reducing workload and communication gaps among caregivers, kitchen staff, and facility administrators. <br><br><strong>Team Project</strong>: Collaborated with classmates.<br><strong>My Role</strong>: Timekeeper, responsible for ensuring everything is submitted on time.",
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
     "MainImage": "https://res.cloudinary.com/dlxpg7zi1/image/upload/v1764748898/Screenshot_2025-12-02_123926_gxnqtk.png",
     "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
